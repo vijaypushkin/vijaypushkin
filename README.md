@@ -59,28 +59,28 @@
 ### Stats
 
 <details>
-  <p align="center">
-    <a href="https://github.com/vijaypushkin">
-      <img 
-        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vijaypushkin&theme=github_dark" 
-        alt="Vijay Pushkin's GitHub Stats"
-      />
-    </a>
+<p align="center">
+  <a href="https://github.com/vijaypushkin">
+    <img 
+      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vijaypushkin&theme=github_dark" 
+      alt="Vijay Pushkin's GitHub Stats"
+    />
+  </a>
 
-    <a href="https://github.com/vijaypushkin">
-      <img 
-        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vijaypushkin&theme=github_dark" 
-        alt="Vijay Pushkin's GitHub Stats"
-      />
-    </a>
+  <a href="https://github.com/vijaypushkin">
+    <img 
+      src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vijaypushkin&theme=github_dark" 
+      alt="Vijay Pushkin's GitHub Stats"
+    />
+  </a>
 
-    <a href="https://github.com/vijaypushkin">
-      <img 
-        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vijaypushkin&theme=github_dark" 
-        alt="Vijay Pushkin's GitHub Stats"
-      />
-    </a>
-  </p>
+  <a href="https://github.com/vijaypushkin">
+    <img 
+      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vijaypushkin&theme=github_dark" 
+      alt="Vijay Pushkin's GitHub Stats"
+    />
+  </a>
+</p>
 </details>
 
 <p align="center">
