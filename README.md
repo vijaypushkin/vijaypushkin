@@ -58,7 +58,7 @@
 
 ### Stats
 
-<details>
+
 <p align="center">
   <a href="https://github.com/vijaypushkin">
     <img 
@@ -76,7 +76,7 @@
 
   <a href="https://github.com/vijaypushkin">
     <img 
-      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vijaypushkin&theme=github_dark" 
+      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vijaypushkin&theme=github_dark" 
       alt="Vijay Pushkin's GitHub Stats"
     />
   </a>
@@ -95,7 +95,7 @@
     />
   </a>
 </p>
-</details>
+
 
 <p align="center">
   <a href="https://github.com/vijaypushkin">
