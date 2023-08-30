@@ -80,6 +80,20 @@
       alt="Vijay Pushkin's GitHub Stats"
     />
   </a>
+
+  <a href="https://github.com/vijaypushkin">
+    <img 
+      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vijaypushkin&theme=github_dark" 
+      alt="Vijay Pushkin's GitHub Stats"
+    />
+  </a>
+
+  <a href="https://github.com/vijaypushkin">
+    <img 
+      src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vijaypushkin&theme=github_dark&utcOffset=5.5" 
+      alt="Vijay Pushkin's GitHub Stats"
+    />
+  </a>
 </p>
 </details>
 
